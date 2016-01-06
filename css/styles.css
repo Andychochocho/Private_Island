@@ -1,4 +1,4 @@
-h1, h2{
+h1 {
   color: orange;
   text-align: center;
   font-family: Helvetica;
@@ -6,9 +6,24 @@ h1, h2{
   font-weight: bolder;
 }
 
-h3, p {
+h2 {
   color: red;
   text-align: center;
   font-family: Helvetica;
-  font-size: 20px;
+  font-size:40px;
+  font-weight: bolder;
 }
+
+h3 {
+  color: blue;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 20px;
+ }
+
+ p {
+   color: green;
+   text-align: center;
+   font-family: Helvetica;
+   font-size: 20px;
+ }
